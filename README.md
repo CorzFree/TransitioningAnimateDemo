@@ -1,0 +1,2 @@
+# TransitioningAnimateDemo
+ViewController的切换动画，看了kittenyang的自定义转场动画也自己敲了一下
